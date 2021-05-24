@@ -1,0 +1,6 @@
+name: Minigame
+version: ${project.version}
+main: com.zilleyy.minigame.Central
+api-version: 1.16
+authors: [ Zilleyy ]
+description: ...
